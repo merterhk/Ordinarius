@@ -1,0 +1,18 @@
+body {font-size: 15px; font-family: Calibri,Verdana,Arial;}
+
+#logo {background: url('images/ordinarius.png') no-repeat center; width:100%; height:50px;padding-top: 100px;}
+#imput {background: url('images/search.png') no-repeat left center; border:0; border-bottom: 1px solid #eee; width:500px; font-size: 20px; font-family: Calibri,Verdana,Arial; padding-left: 30px;}
+
+#tlinks {font-family: Calibri,Verdana,Arial; font-size: 2; color: darkblue; text-decoration: none; float: right; padding: 10px; border-bottom: 1px solid #ddd;}
+
+.search-item {font-family: Calibri,Verdana,Arial; font-size: 14px; padding:8px;}
+
+#content {width: 500px; text-align: left; padding-top: 10px;}
+#clear {width: 500px; text-align: left; padding-top: 10px;}
+
+.search-item a,a:link,a:hover,a:active {color:blue;}
+.link {color:blue; cursor: pointer;}
+.loading {background: url('../images/loading.gif') no-repeat left center}
+
+.tagged {background: url('images/tag.png') no-repeat left center; padding-left: 25px;}
+.delete {background: url('images/delete.png') no-repeat left center; padding-left: 25px;}
